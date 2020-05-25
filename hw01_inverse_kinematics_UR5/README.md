@@ -1,7 +1,7 @@
 # Numerical Inverse Kinematics for UR5
-El siguiente programa resuelve el problema de cinematica inversa para un robot serial de cadena abierta (UR5) mediante el metodo numerico de Newton-Raphson.
+The following program solves the inverse kinematics problem for an open-chain serial robot (UR5) using the Newton-Raphson numerical method.
 
-Todas las ecuaciones y la formulacion matematica son del libro de Moder Robotics de Kevin Lynch.
+All equations and mathematical formulation are from Kevin Lynch's Moder Robotics book.
 
 ## Requirements
 `Python 3.X` and `numpy`
